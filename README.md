@@ -1,4 +1,8 @@
-# Supermarket Sales Analysis
+# 🛒 Supermarket Sales Analysis
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-Academic-green.svg)](LICENSE)
 
 ## IBM SkillsBuild Data Analytics with AI Academic Internship Program
 
@@ -215,6 +219,27 @@ This project is part of the IBM SkillsBuild Academic Internship Program.
 - **IBM SkillsBuild** for providing the platform and resources
 - **BharatCares** for conducting and coordinating the program
 - Instructors and mentors for guidance throughout the internship
+
+---
+
+## 📸 Screenshots
+
+### Analysis Dashboard
+The Jupyter notebook contains comprehensive visualizations including:
+- 📊 Product performance bar charts
+- 📈 Branch comparison analysis
+- 🥧 Category distribution pie charts
+- 💳 Payment method preferences
+- 👥 Customer type comparison
+- ⭐ Rating distribution histograms
+- 🔥 Correlation heatmaps
+
+---
+
+## 🌟 Repository Statistics
+
+![GitHub repo size](https://img.shields.io/github/repo-size/aryan0543f/Aryan-IBM-SkillsBuild-internship)
+![GitHub last commit](https://img.shields.io/github/last-commit/aryan0543f/Aryan-IBM-SkillsBuild-internship)
 
 ---
 
